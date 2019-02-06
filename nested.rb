@@ -137,5 +137,6 @@ def adding_to_dennis
         }
      }
 
-		 programmer_hash
+		 new_guy = programmer_hash[:dennis_ritchie][:languages]
+		 new_guy.push("Assembly")
 end
